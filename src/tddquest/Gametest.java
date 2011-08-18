@@ -30,12 +30,6 @@ public class Gametest extends TestCase {
 		assertEquals(20, mhp.hitpoint);
 	}
 
-	// public void testStatus(){
-	// Status hp = new Status(10);
-	// assertEquals(10,hp.hitpoint);
-	// Status attack = hp.attack(3);
-	// assertEquals(7,attack.hitpoint);
-	// attack = hp.attack(4);
-	// assertEquals(3, attack.hitpoint);
-	// }
+	/* STATUS test */
+
 }

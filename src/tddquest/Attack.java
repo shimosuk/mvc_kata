@@ -1,6 +1,6 @@
 package tddquest;
 
-public class Attack {
+public class Attack extends Status{
 
 	int amount;
 
